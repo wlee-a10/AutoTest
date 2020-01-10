@@ -1,6 +1,6 @@
 #!/bin/bash
 
-version="1.0"
+version="2.0"
 
 srv_ip=$1
 srv_port=$2
